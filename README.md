@@ -1,0 +1,2 @@
+#pyautogui automate copying script
+
